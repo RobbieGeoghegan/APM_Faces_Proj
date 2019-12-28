@@ -33,3 +33,4 @@ Therefore, the pretrained model(s) included in this repository is restricted by 
 ### Github Repos:
 * https://github.com/yu4u/age-gender-estimation
 * https://github.com/serengil/tensorflow-101
+* https://github.com/rmmeade/APM_Faces_Proj
